@@ -16,6 +16,6 @@ app.use('/api/',fittyrouter1)
 app.use('/api/',foodrouter1)
 app.use('/api/',techrouter1)
 
-app.listen(3015,()=>{
+app.listen(process.env.PORT || 3015,()=>{
     console.log("app is running")
 })
