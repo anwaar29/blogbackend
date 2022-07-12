@@ -1,6 +1,6 @@
 const food=(req,res)=>{
     res.send([{
-        "Title": " Baby food for your six-month-old: Things to keep in mind ",
+    "Title": " Baby food for your six-month-old: Things to keep in mind ",
     "CategoryName": "FOOD",
     "PublishedDate": "  January  / 15    2020",
     "ImageAsset": " https://images.indianexpress.com/2021/08/GettyImages-baby-food-toddlers-1200.jpg?resize=450,250",
