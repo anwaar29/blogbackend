@@ -1,18 +1,19 @@
 const datas=(req,res)=>{
     res.send([{
-        "Title": " Say goodbye to swollen ankles, stiff back, weakness in legs with these ‘effective stretches’ ",
-        "CategoryName": "FITNESS",
-        "PublishedDate": "  January  / 15    2020",
-        "ImageAsset": "http://images.indianexpress.com/2021/09/stretching_1200_getty.jpg?resize=450,250",
-        "BlogContent": " These simple stretches, when done throughout the day, also help with a flat stomach, said celebrity nutritionist Rujuta Diwekar",
-      },
-      {
-        "Title": "‘Health must bring freedom, not restrictions’: Ankita Konwar pens note on fad diets and mindful eating ",
-        "CategoryName": "HFITNESS",
-        "PublishedDate": "  January  / 15   2019",
-        "ImageAsset": " http://images.indianexpress.com/2021/05/ankita-konwar_1200_instagram.jpg?resize=450,250 ",
-        "BlogContent": " ...fad diets and 10 day magical transformations never work. What works is a sustainable wholesome mindful way of living, she said.",
-      },
+      "id":"1",
+      "Title": " Vicky Kaushal and Katrina Kaif to Celebrate First Lohri After Marriage, Actor Enjoys Jalebi in Indore - News18 ",
+      "CategoryName": "Bollywood",
+      "PublishedDate": "  January  / 15    2022",
+      "ImageAsset": "https://images.news18.com/ibnlive/uploads/2021/12/katrina-and-vicky-pic-163999921816x9.jpg  ",
+      "BlogContent": "The Uri actor, who is in Indore for his work commitments, recently took to his Instagram Story section to share a glimpse of him enjoying sweets before the festivities.",
+    },
+    {
+      "Title": "Christmas 2019 recipes: Make plum pudding and mince pie for your child ",
+      "CategoryName": "FOOD",
+      "PublishedDate": "  January  / 15   2019",
+      "ImageAsset": "https://images.indianexpress.com/2019/12/Traditional-Plum-Pudding-at-Novotel-ibis-Bengaluru-Outer-Ring-Road.jpg?resize=450,250 ",
+      "BlogContent": " Christmas 2019: No festival is complete without gorging on delicious treats. Make these dishes at home and enjoy with your family",
+    },
       {
         "Title": " ",
         "CategoryName": "FITNESS",
